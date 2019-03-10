@@ -23,7 +23,7 @@ dat <- acs_dat %>%
   mutate(NAME = gsub(NAME, pattern = " County", replacement = ""))
 head(dat)
 
-# read in South Carolina counties shape file
+# read in Maryland counties shape file
 md = counties("Maryland", year = 2016) %>%
   st_as_sf() %>%
   st_transform(crs = 3857) 
@@ -46,7 +46,7 @@ print(g2)
 
 
 
-# ---- South Carolina Internet --------------------------
+# ---- South Carolina (State 45) Internet --------------------------
 data_url2 <- "https://api.census.gov/data/2017/acs/acs5/profile?get=DP02_0152PE,NAME&for=county:*&in=state:45&key=25488af6841e29e4b76b5e8fb877ea0d4ae2a017"
 json_data <- fromJSON(data_url2)
 
@@ -84,7 +84,7 @@ g2 <- g1 + geom_sf_text(aes(label = NAME.y), colour = "black")
 print(g2)
 
 
-# ---- California Internet ------------------------------------------
+# ---- California Internet (State 06) ------------------------------------------
 data_url2 <- "https://api.census.gov/data/2017/acs/acs5/profile?get=DP02_0152PE,NAME&for=county:*&in=state:06&key=25488af6841e29e4b76b5e8fb877ea0d4ae2a017"
 json_data <- fromJSON(data_url2)
 
@@ -125,7 +125,7 @@ print(g2)
 
 
 
-# ---- New York Workforce ------------------------------------------
+# ---- New York (State 36) Workforce ------------------------------------------
 data_url2 <- "https://api.census.gov/data/2017/acs/acs5/profile?get=DP03_0003PE,NAME&for=county:*&in=state:36&key=25488af6841e29e4b76b5e8fb877ea0d4ae2a017"
 json_data <- fromJSON(data_url2)
 
