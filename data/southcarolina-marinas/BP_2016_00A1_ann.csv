@@ -1,0 +1,16 @@
+GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,Id,2012 NAICS code,Meaning of 2012 NAICS code,Id,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0500000US45007,45007,"Anderson County, South Carolina",,71393,Marinas,,2016,,ECONF$c,ECONF$D,ECONF$D
+0500000US45015,45015,"Berkeley County, South Carolina",,71393,Marinas,,2016,,ECONF$b,ECONF$D,ECONF$D
+0500000US45017,45017,"Calhoun County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45027,45027,"Clarendon County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45029,45029,"Colleton County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45035,45035,"Dorchester County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45045,45045,"Greenville County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45047,45047,"Greenwood County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45065,45065,"McCormick County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45071,45071,"Newberry County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45075,45075,"Orangeburg County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45079,45079,"Richland County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45083,45083,"Spartanburg County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D
+0500000US45091,45091,"York County, South Carolina",,71393,Marinas,,2016,,ECONF$a,ECONF$D,ECONF$D

@@ -1,0 +1,66 @@
+CB1600A11
+Geography Area Series: County Business Patterns
+
+Release Date : 04/19/2018
+
+NOTE: Data based on the 2016 County Business Patterns. CBP html tables and download files can be found at the  County Business Patterns Website.
+For information on confidentiality protection, sampling error, nonsampling error, and definitions, see  Survey Methodology.
+Data in this table represent those available when this report was created; data may not be available for all NAICS industries or geographies. Excludes most government employees, railroad employees, and self-employed persons.
+
+ 
+ 
+  Table Name
+  Geography Area Series: County Business Patterns: 2016 
+  
+ 
+  Release Schedule
+  The data in this file were released on April 19, 2018.
+  
+ 
+  Key Table Information
+  Beginning with reference year 2007, CBP data are released using the Noise disclosure methodology to protect confidentiality. See Survey Methodology for complete information on the coverage and methodology of the County Business Patterns data series. 
+  
+ 
+  Universe
+  The universe of this file is all operating establishments with one or more paid employees. This universe includes most establishments classified in the North American Industry Classification System (NAICS) Codes 11 through 813990. For specific exclusions and inclusions, see Industry Classification of Establishments. 
+  
+ 
+  Geography Coverage
+  The data are shown at the U.S. level and by State, County, Metropolitan and Micropolitan Statistical Areas, and Congressional District. Also available are data for the District of Columbia, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands) at the state and county equivalent levels. 
+  
+ 
+  Industry Coverage
+  The data are shown at the 2- through 6-digit NAICS code levels for all sectors with published data. 
+  
+ 
+  Data Items and Other Identifying Records
+  This file contains data on the number of establishments, total employment, first quarter payroll and annual payroll. 
+  
+ 
+  Sort Order
+  Data are presented in ascending geography by NAICS code sequence. 
+  
+ 
+  FTP Download
+  Download the entire table at http://www2.census.gov/econ2016/CB/sector00/CB1600A11.zip. 
+  
+ 
+  Contact Information
+  U.S. Census Bureau Economy-Wide Statistics Division Business Statistics Branch Tel: (301)763-2580 Email: ewd.county.business.patterns@census.gov 
+  
+
+
+ECONF$c
+	c	100 to 249 employees
+
+ECONF$D
+	D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+ECONF$b
+	b	20 to 99 employees
+
+ECONF$a
+	a	0 to 19 employees
+
+Source: U.S. Census Bureau, 2016 County Business Patterns.
+

@@ -1,0 +1,34 @@
+DP-1
+Profile of General Demographic Characteristics: 2000
+
+NOTE:  For information on confidentiality protection,
+nonsampling error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/sf1.pdf
+
+
+
+
+Source: U.S. Census Bureau, Census 2000 Summary File 1, Matrices
+P1, P3, P4, P8, P9, P12, P13, P,17, P18, P19, P20, P23, P27, P28,
+P33, PCT5, PCT8, PCT11, PCT15, H1, H3, H4, H5, H11, and H12.
+
+
+
+
+(X) Not applicable.
+
+
+
+[1] Other Asian alone, or two or more Asian categories.
+
+[2] Other Pacific Islander alone, or two or more Native Hawaiian
+and Other Pacific Islander categories.
+
+[3] In combination with one or more other races listed. The six
+numbers may add to more than the total population and the six
+percentages may add to more than 100 percent because individuals
+may report more than one race.
+
+
+
+
