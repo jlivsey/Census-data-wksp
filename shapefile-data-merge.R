@@ -41,7 +41,7 @@ print(g1)
 ##### 2000 ####
 
 # read in data from AFF 
-csv_dat = read.csv("C:/Users/James/Dropbox/jim/USF-wksp/data/southcarolina-population/DEC_00_SF1_DP1.csv")
+csv_dat = read.csv("C:/Users/livse301/Dropbox/jim/USF-wksp/data/southcarolina-population/DEC_00_SF1_DP1.csv")
 
 dat = csv_dat %>% 
   select(GEO.id2, GEO.display.label, pop = HC01_VC01) %>% 
@@ -73,7 +73,7 @@ g2000 <- ggplot(sc_dat) +
 
 
 # read in data from AFF 
-csv_dat = read.csv("C:/Users/James/Dropbox/jim/USF-wksp/data/southcarolina-population/DEC_10_SF1_P1.csv")
+csv_dat = read.csv("C:/Users/livse301/Dropbox/jim/USF-wksp/data/southcarolina-population/DEC_10_SF1_P1.csv")
 
 dat = csv_dat %>% 
   select(GEO.id2, GEO.display.label, pop = D001) %>% 
