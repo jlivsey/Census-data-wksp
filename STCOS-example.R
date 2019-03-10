@@ -163,8 +163,8 @@ H <- sp$get_H()
 S <- sp$get_S()
 
 #' Dimension reduction of `S` matrix via PCA.
-eig <- eigen(t(S) %*% S) # DONT RUN - takes long time
-rho <- eig$values
+eig <- eigen(t(S) %*% S) # TAKES A WHILE
+rho = eig$values
 
 library("RSpectra")
 eig2 <- eigs_sym(t(S) %*% S, k = 4, which = "LA") # Know 4 from past run
@@ -338,7 +338,6 @@ Central <- neighbs[1,]
 East <- neighbs[2,]
 North <- neighbs[3,]
 Paris <- neighbs[4,]
-Outlier <- acs5.2015[idx,]
 
 # Prevent `sf` package warnings like "st_centroid assumes attributes are
 # constant over geometries of x"
